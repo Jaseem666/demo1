@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "992357394768",
+    "project_id": "sample-4004d",
+    "storage_bucket": "sample-4004d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992357394768:android:38087d3dc4bfe3cc4ee455",
+        "android_client_info": {
+          "package_name": "com.example.mappp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbi-qaHUP6MTJ1ex7LHDK-6Dxx-ZOZiyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992357394768:android:c35f1de63272f3244ee455",
+        "android_client_info": {
+          "package_name": "com.example.popopo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbi-qaHUP6MTJ1ex7LHDK-6Dxx-ZOZiyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992357394768:android:b430b4348fe88edd4ee455",
+        "android_client_info": {
+          "package_name": "com.fgrynew.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbi-qaHUP6MTJ1ex7LHDK-6Dxx-ZOZiyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
